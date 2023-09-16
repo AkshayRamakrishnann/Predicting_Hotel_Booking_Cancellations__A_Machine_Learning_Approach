@@ -1,6 +1,6 @@
 # Predicting_Hotel_Booking_Cancellations__A_Machine_Learning_Approach
 
-![image](https://github.com/AkshayRamakrishnann/Predicting_Hotel_Booking_Cancellations__A_Machine_Learning_Approach/assets/111365771/00752b61-0f2d-4d80-bfce-2ec8a62c1628)
+[![image](https://github.com/AkshayRamakrishnann/Predicting_Hotel_Booking_Cancellations__A_Machine_Learning_Approach/assets/111365771/00752b61-0f2d-4d80-bfce-2ec8a62c1628)](https://imgs.search.brave.com/9ADQ-yUNwWNXIGxHYJysdCpah5scXxk8ueHECnnplTk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9vbmxpbmUtaG90/ZWwtYWNjb21tb2Rh/dGlvbi1ib29raW5n/LXdlYnNpdGUtcHJv/dmlkZS1tb2Rpc2gt/cmVzZXJ2YXRpb24t/c3lzdGVtXzMxOTY1/LTQwNDUxLmpwZz9z/aXplPTYyNiZleHQ9/anBn)
 
 ## Introduction
 
